@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/animated_sandbox.unity
+  isLoaded: 1
+  isActive: 1
